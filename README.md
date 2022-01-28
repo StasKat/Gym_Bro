@@ -15,5 +15,13 @@ To stop
 1. brew services stop mongodb
 
 
+Running the program.
+Please install node_modules (this has many libarires we will implmenet with)
+1. npm install
+2. stall all other dependieces.
+3. create a bash script that will automate this process. 
+
+
+
 Before setting up for remote access/exposing to IP connections read the bottom of the manual for non-authorized use. 
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
